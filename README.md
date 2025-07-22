@@ -42,6 +42,12 @@ npm install @esengine/nova-ecs-render-core
 │   └── BasePhysicsDebugRenderer (Physics debug base)
 ```
 
+## API Documentation | API 文档
+
+For complete API documentation, visit: [https://esengine.github.io/nove-ecs-render-core/](https://esengine.github.io/nova-ecs-render-core/)
+
+完整的API文档请访问：[https://esengine.github.io/nove-ecs-render-core/](https://esengine.github.io/nova-ecs-render-core/)
+
 ## Quick Start | 快速开始
 
 ### Basic Renderer Implementation | 基础渲染器实现
